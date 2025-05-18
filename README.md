@@ -1,14 +1,4 @@
-requirements.txtOkay, here's the `README.md` file with placeholders clearly marked for you to replace. I've removed the instructional comments and guidelines from the previous version, aiming for a copy-paste ready template.
-
-**You still need to:**
-
-*   Replace `[YOUR_MYSQL_HOST]`, `[YOUR_MYSQL_USER]`, `[YOUR_MYSQL_PASSWORD]`, `[YOUR_DATABASE_NAME]`.
-*   Add actual screenshots or a GIF where indicated.
-*   Ensure the `requirements.txt` content is accurate for your project.
-*   Decide on and fill in the License section.
-*   Update Acknowledgements if necessary.
-
-```markdown
+![{48098C77-4DA8-45E6-9D79-DE8AA0525CC9}](https://github.com/user-attachments/assets/9bf88c21-866d-448d-a2ce-acea216f66b3)
 # Real-Time Weapon & Object Detection System
 
 
@@ -38,12 +28,24 @@ This project implements a real-time weapon detection and general object recognit
     *   Main area for video display and status messages.
 
 ## Demo / Screenshots
+Homepage: 
 
-**(Add your screenshots or a GIF of the application in action here. For example:**
-<!-- ![App Screenshot 1](path_to_your_screenshot1.png) -->
-<!-- ![App GIF Demo](path_to_your_demo.gif) -->
-**)**
+![-2025-05-18T18_32_55 351Z](https://github.com/user-attachments/assets/eac6bdc4-ebae-4882-9fe7-6d94efa4cf57)
 
+Detected Clips:
+
+![2025-05-18T18_33_53 940Z](https://github.com/user-attachments/assets/aaf517b2-429c-4358-a665-e2ccfb9d5553)
+
+Detected Logs in MySQL:
+
+![2025-05-18T18_57_47 544Z](https://github.com/user-attachments/assets/e955d395-67ec-4293-9903-7928c6449268)
+
+
+
+
+
+
+ 
 ## Tech Stack
 
 *   **Python**
@@ -125,8 +127,7 @@ opencv-python
 ultralytics
 mysql-connector-python
 
-```
-(Generate with `pip freeze > requirements.txt` in your active venv if needed.)
+``` 
 
 ## Usage
 
@@ -166,4 +167,5 @@ Contributions are welcome! Please fork the repository, create a feature branch, 
 *   Streamlit Team
 *   OpenCV Community
 
-```
+## Atuhor 
+Abhishek Shrimali
