@@ -76,7 +76,7 @@ weapon-detection-system/
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [YOUR_GITHUB_REPOSITORY_LINK]
+    git clone https://github.com/SageMurphy/Automatic-Weapon-Detection-System
     cd [YOUR_REPOSITORY_DIRECTORY_NAME]
     ```
 
