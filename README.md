@@ -1,4 +1,4 @@
-![{48098C77-4DA8-45E6-9D79-DE8AA0525CC9}](https://github.com/user-attachments/assets/9bf88c21-866d-448d-a2ce-acea216f66b3)
+
 # Real-Time Weapon & Object Detection System
 
 
