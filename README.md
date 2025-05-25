@@ -3,7 +3,7 @@
 
 
 This project implements a real-time weapon detection and general object recognition system using YOLOv8 models, built with a Streamlit web interface. It can process live webcam feeds, uploaded video files, or pre-defined sample videos. Detections are visually annotated on the video frames, and logs (including paths to clips where weapons are detected) are stored in a MySQL database.
-
+Youtube LINK : https://youtu.be/nJ0QmeDjbkE
 ## Features
 
 *   **Real-Time Detection:** Processes video streams for immediate object identification.
