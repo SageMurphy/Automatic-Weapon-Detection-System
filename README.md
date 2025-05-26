@@ -59,8 +59,7 @@ Detected Logs in MySQL:
 
 ```
 weapon-detection-system/
-├── .streamlit/
-│   └── secrets.toml         # Stores MySQL credentials
+
 ├── sample_videos/
 │   └── people_walking.mp4   # Example
 │   └── traffic.mp4          # Example
@@ -102,9 +101,8 @@ weapon-detection-system/
     *   Ensure your MySQL user (e.g., `[YOUR_MYSQL_USER]`) has permissions for this database.
 
 6.  **Configure Database Secrets:**
-    *   Create a directory: `.streamlit` in the project root.
-    *   Inside `.streamlit/`, create `secrets.toml` with:
-        ```toml
+    *   Modify this part of your code accordingly
+    *   ```
         [mysql]
         host = "[YOUR_MYSQL_HOST]"         # e.g., "localhost"
         user = "[YOUR_MYSQL_USER]"         # e.g., "root"
