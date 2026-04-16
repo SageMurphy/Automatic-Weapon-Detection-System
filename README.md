@@ -165,5 +165,5 @@ Contributions are welcome! Please fork the repository, create a feature branch, 
 *   Streamlit Team
 *   OpenCV Community
 
-## Atuhor 
+## Author 
 Abhishek Shrimali
